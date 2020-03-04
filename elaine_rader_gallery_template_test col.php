@@ -1,0 +1,172 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>My Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+     <link href="css/custom.css" rel="stylesheet">
+     <link href="css/magiczoomplus.css" rel="stylesheet">
+    <style type="text/css">
+    body {
+	background-image: url();
+	color: #F3EAEA;
+	background-color: #060606;
+}
+    </style>
+    
+    <!-- google analytics -->
+    <script src="js/respond.js"></script>
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27344073-1']);
+  _gaq.push(['_setDomainName', 'elainerader.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+	<div class="container">
+<!-- row 1 -->
+
+	
+<img src="img/elaine_rader_header_chains.png" width="1562" height="147" alt=""pull-left/><!-- row 2 -->
+
+
+
+<div class="row">
+    	<nav class="navbar navbar-default navbar-fixed-middle navbar-inverse">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.com">Home</a></li>
+                     <li class="dropdown"><a href="#" data-toggle="dropdown">Galleries<span class="caret"></span></a>
+                    	<ul class="dropdown-menu">
+                        	<li><a href="gallery_intro.html">Rings</a></li>
+                            <li><a href="elaine_rader_bracelets.html">Bracelets</a></li>
+                            <li><a href="elaine_rader_necklaces.html">Necklaces</a></li>
+                            <li><a href="elaine_rader_earrings.html">Earrings</a></li>
+                            <li><a href="elaine_rader_chains.html">Chains </a></li>
+                            <li><a href="elaine_rader_belts.html">Belt Buckles</a></li>
+                        </ul>                    
+                    </li>                   
+                    
+                  
+                  
+                    <li class="dropdown"><a href="#" data-toggle="dropdown">About Elaine<span class="caret"></span></a>
+                    	<ul class="dropdown-menu">
+                        	<li><a href="elaine_rader_history.html">History and Stories</a></li>
+                            <li><a href="paul_rader.html">Her Dad </a></li>
+                            <li><a href="elaine_rader_ballet.html">Art and Ballet</a></li>
+                            <li><a href="elaine_rader_artist_statement.html">Artist Statement</a></li>
+                            <li><a href="elaine_rader_hair_page.html">Elaine's Hair Page </a></li>
+                            <li><a href="elaine_rader_links.html">Favorite Links</a></li>
+                        </ul>                    
+                    </li>                 
+                    
+                     <li class="dropdown"><a href="#" data-toggle="dropdown">Exhibits and Events Calender<span class="caret"></span></a>
+                    	<ul class="dropdown-menu">
+                        	<li><a href="eline_rader_buy.html">How to Buy </a></li>
+                            <li><a href="eline_rader_schedule.html">Schedule of Events </a></li>
+                            <li><a href="eline_rader_holiday.html">Elaine Rader Holiday Show </a></li>
+                           
+                        </ul>                    
+                    </li>  
+                      <li class="dropdown"><a href="#" data-toggle="dropdown">Customer Information<span class="caret"></span></a>
+                    	<ul class="dropdown-menu">
+                        	<li><a href="elaine_rader_contact.html">Contact Information</a></li>
+                            <li><a href="elaine_rader_collector.html">Become a Collector  </a></li>
+                            <li><a href="elaine_rader_care.html">How to take care</a></li>
+                            <li><a href="elaine_rader_warranty.html">Warranty Information</a></li>
+                            <li><a href="elaine_rader_sitemap.html">Web Site Navigation and Info </a></li>
+                           
+                        </ul>                    
+                    </li>                               
+                    
+                    
+                   
+                       
+                </ul> 
+            </div>
+         </nav> 
+    </div>
+    
+
+ 
+<!-- row 5-2 -->        
+       
+        <div class="row">
+            <div class="col-lg-1">
+                <p></p>
+            </div>
+            <div class="col-lg-3">
+            <h2 class="h4">Riveted Choker Chain</h2>
+                <p>Riveted choker handmade chain, looks good dressed up, dressed down (approx. as shown 16" to 18" adjustable).</p>
+           <p>$395.00</p>
+           
+           <p><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="N5B9D8UTCUUQL">
+<input type="image" src="http://www.elainerader.com/picts/elaine_rader_addtocart.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></p>
+            </div>
+            <div class="col-lg-1">
+                <p></p>
+            </div>
+          <div class="col-lg-3">
+            	<p><a href="gallery/necklace14_chain_hardrock_750.jpg" class="MagicZoomPlus"id="trainers"><img src="gallery/necklace14_chain_hardrock_140.jpg" align="baseline"></a></p>
+            </div>
+            <div class="col-lg-3">
+                <p><a href="gallery/necklace14_chain_hardrock_350.jpg"rel="zoom-id:trainers" rev="gallery/necklace14_chain_hardrock_350_face.jpg">   <img src="gallery/necklace14_chain_hardrock_140_face.jpg" width="172" height="230"></a></p>
+           </div>
+      	</div> <!-- end row -->
+        
+
+            <!-- row 7 -->
+            
+              <footer class="row">
+    	 <div class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+               <div class="container">
+                <div class="collapse navbar-collapse" id="collapse">
+               <div class="navbar-text pull-left">
+    	<ul class="nav nav-pills nav-justified">
+                    <li><a href="index.com">Galleries</a></li>                    
+                    <li> <a href="elaine_rader_shopping.html">How to Buy  </a></li>
+                    <li> <a href="eline_rader_schedule.html">Schedule of Events </a></li>
+                    <li><a href="elaine_rader_contact.html">Contact Information</a></li>
+                    <li><a href="http://http://www.law.harvard.edu/faculty/martin/art_law/image_rights.htm">All Contents Copyright</a></li>
+                      
+                </ul> 
+</div>      
+               
+    </footer>
+     
+   
+
+
+<!-- javascript -->
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/magiczoomplus.js"></script>
+</body>
+</html>

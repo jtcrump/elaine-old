@@ -1,0 +1,117 @@
+
+
+
+/* harry custom styling*/
+
+.gallery{
+min-height:340px;
+}
+
+.gallery_long{
+min-height:390px;
+}
+
+.gallery img, .gallery_long img{
+padding-top: 30px;
+width: 200px;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.350_wide img{
+width: 350px;
+}
+
+.erquote{	
+	font-style: italic;
+	font-size: 29px;
+	font-family: Cambria;
+	color:white;}
+	
+.erstatement{	
+	font-style: italic;
+	font-size: 23px;
+	font-family: Cambria;
+	color:white;
+	font-weight: normal;
+	}
+	
+.erquoteblack{	
+	font-style: italic;
+	font-size: 29px;
+	font-family: Cambria;
+	color:black;}	
+		
+	
+.erdropdown{	
+	
+	color:white;}
+ /* custom styling nav gray pages */
+ 	
+.navbar-inverse .navbar-nav > li > a {
+	color: #fff;
+	font-size: 18px;
+  }
+  /* custom styling nav black pages */
+  
+  .navbar-inverse .navbar-nav > li > a {
+  color: transparent;
+  font-size: 18px;
+  background color: ;  
+}
+
+ /* custom styling nav transparent pages */
+ 
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;  
+}
+
+
+
+@charset "utf-8";
+/* CSS Document */
+
+.carousel.fade {
+  opacity: 1;
+}
+.carousel.fade .item {
+  -moz-transition: opacity ease-in-out .7s;
+  -o-transition: opacity ease-in-out .7s;
+  -webkit-transition: opacity ease-in-out .7s;
+  transition: opacity ease-in-out .7s;
+  left: 0 !important;
+  opacity: 0;
+  top:0;
+  position:center;
+  width: 100%;
+  display:block !important;
+  z-index:1;
+}
+.carousel.fade .item:first-child {
+  top:auto;
+  position:center;
+}
+.carousel.fade .item.active {
+  opacity: 1;
+  -moz-transition: opacity ease-in-out .7s;
+  -o-transition: opacity ease-in-out .7s;
+  -webkit-transition: opacity ease-in-out .7s;
+  transition: opacity ease-in-out .7s;
+  z-index:2;
+}
+
+.navbar .nav,
+.navbar .nav > li {
+  float:none;
+  display:inline-block;
+  *display:inline; /* ie7 fix */
+  *zoom:1; /* hasLayout ie7 trigger */
+  vertical-align: top;
+}
+
+.navbar-inner {
+  text-align:center;
+}

@@ -1,0 +1,186 @@
+
+
+
+/* harry custom styling*/
+
+.welcome{
+text-align: center;
+font-family: Comic Sans MS,  sans-serif;
+color: #CCC;
+font-style:oblique;
+margin-top:25px;
+margin-bottom: -5px;
+}
+
+.gallery{
+min-height:340px;
+}
+
+.gallery_long{
+min-height:390px;
+
+}
+
+.gallery img, .gallery_long img{
+padding-top: 30px;
+width: 200px;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.center{
+text-align: center;
+}
+
+.center img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.black{
+color: #000;
+}
+
+.wide_350 img{
+width: 350px;
+}
+
+.spacer{
+margin-top:20px;
+}
+
+.footer-nav{
+list-style: none;
+}
+
+.footer-nav ul{
+
+}
+
+.footer-nav li{
+display: inline;
+margin-right: 80px;
+
+}
+
+.erquote img{
+padding-top: 5px;
+/* max-width: 230px; */
+height: 200px;
+width: auto;
+border-radius: 35px;
+box-shadow: 5px 5px 2px #333;
+}
+
+.small-img img{
+max-width: 220px;
+}
+
+.erquote{	
+	font-style: italic;
+	font-size: 29px;
+	font-family: Cambria;
+	color:white;}
+	
+.erquote-sm{	
+
+	font-size: 22px;
+}
+
+.erstatement{	
+	font-style: italic;
+	font-size: 23px;
+	font-family: Cambria;
+	color:white;
+	font-weight: normal;
+	}
+	
+.erquoteblack{	
+	font-style: italic;
+	font-size: 29px;
+	font-family: Cambria;
+	color:black;}	
+		
+	
+.erdropdown{	
+	
+	color:white;}
+ /* custom styling nav gray pages */
+ 	
+.navbar-inverse .navbar-nav > li > a {
+	color: #fff;
+	font-size: 18px;
+  }
+  /* custom styling nav black pages */
+  
+  .navbar-inverse .navbar-nav > li > a {
+  color: transparent;
+  font-size: 18px;
+  background color: ;  
+}
+
+ /* custom styling nav transparent pages */
+ 
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;  
+}
+
+
+
+@charset "utf-8";
+/* CSS Document */
+
+.carousel.fade {
+  opacity: 1;
+}
+
+#myCarousel img{
+float:left;
+display:block;
+margin-left:25%;
+
+border:2px solid white;
+}
+
+.carousel.fade .item {
+  -moz-transition: opacity ease-in-out .7s;
+  -o-transition: opacity ease-in-out .7s;
+  -webkit-transition: opacity ease-in-out .7s;
+  transition: opacity ease-in-out .7s;
+  left: 0 !important;
+  opacity: 0;
+  top:0;
+  position:center;
+  width: 100%;
+  display:block !important;
+  z-index:1;
+}
+.carousel.fade .item:first-child {
+  top:auto;
+  position:center;
+}
+.carousel.fade .item.active {
+  opacity: 1;
+  -moz-transition: opacity ease-in-out .7s;
+  -o-transition: opacity ease-in-out .7s;
+  -webkit-transition: opacity ease-in-out .7s;
+  transition: opacity ease-in-out .7s;
+  z-index:2;
+}
+
+.navbar .nav,
+.navbar .nav > li {
+  float:none;
+  display:inline-block;
+  *display:inline; /* ie7 fix */
+  *zoom:1; /* hasLayout ie7 trigger */
+  vertical-align: top;
+}
+
+.navbar-inner {
+  text-align:center;
+}

@@ -1,0 +1,21 @@
+<?php
+
+$x = 1;
+$item_name = array();
+$quantity = array();
+
+$cart_items = $_POST['num_cart_items'];
+
+while($x <= $cart_items){
+$item_name[$x] = $_POST['item_name' . $x];
+$quantity[$x] = $_POST['quantity' . $x];
+$x++;
+}
+
+
+foreach($item_name as $val){
+echo $val . "<br />";
+}
+
+?>
+
